@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-canal-java
+    profiles:
+        active: dev
+server:
+    port: 8080
